@@ -25,14 +25,14 @@
        margin-top: 20px;
        margin-bottom: 0px;
        text-align: center;
-       font-size: 30px;
+       font-size: 40px;
    }
 
    h3 {
        margin-top: 10px;
        margin-bottom: 10px;
        text-align: center;
-       font-size: 20px;
+       font-size: 25px;
    }
 
    ul {
@@ -43,7 +43,7 @@
    }
 
    i {
-       color: white;
+       color: #FFFFFF;
        margin-left: 0;
        display: inline;
    }
